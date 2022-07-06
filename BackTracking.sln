@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackTracking", "BackTracking\BackTracking.csproj", "{9015F078-88CA-41A0-A363-6D0330C63E6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9015F078-88CA-41A0-A363-6D0330C63E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9015F078-88CA-41A0-A363-6D0330C63E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9015F078-88CA-41A0-A363-6D0330C63E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9015F078-88CA-41A0-A363-6D0330C63E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78225B47-6C17-463C-84AE-4DF656D3FCDD}
+	EndGlobalSection
+EndGlobal

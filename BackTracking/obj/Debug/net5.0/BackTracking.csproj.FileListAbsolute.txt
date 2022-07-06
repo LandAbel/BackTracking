@@ -1,0 +1,15 @@
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/bin/Debug/net5.0/BackTracking.deps.json
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/bin/Debug/net5.0/BackTracking.runtimeconfig.json
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/bin/Debug/net5.0/BackTracking.runtimeconfig.dev.json
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/bin/Debug/net5.0/BackTracking.dll
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/bin/Debug/net5.0/ref/BackTracking.dll
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/bin/Debug/net5.0/BackTracking.pdb
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/obj/Debug/net5.0/BackTracking.csproj.AssemblyReference.cache
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/obj/Debug/net5.0/BackTracking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/obj/Debug/net5.0/BackTracking.AssemblyInfoInputs.cache
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/obj/Debug/net5.0/BackTracking.AssemblyInfo.cs
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/obj/Debug/net5.0/BackTracking.csproj.CoreCompileInputs.cache
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/obj/Debug/net5.0/BackTracking.dll
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/obj/Debug/net5.0/ref/BackTracking.dll
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/obj/Debug/net5.0/BackTracking.pdb
+/Users/abel/Desktop/Egyetem round_two/Szoftver2 gyakorlat/BackTracking/BackTracking/obj/Debug/net5.0/BackTracking.genruntimeconfig.cache
